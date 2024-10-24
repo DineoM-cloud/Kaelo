@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0" pages="3">
   <diagram name="Page-1" id="6Ng5yMFu7N_TuZsimvZq">
     <mxGraphModel dx="1588" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -296,6 +296,265 @@
               <mxPoint x="1650" y="520" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yTqSqE_8v1juyh0xjidf" name="Page-3">
+    <mxGraphModel dx="2251" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f-qqybFhk_4sRwRxrPNh-1" value="QUALITY SYSTEM PROCESS AS-IS&amp;nbsp;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="20" width="2330" height="1495" as="geometry" />
+        </mxCell>
+        <mxCell id="f-qqybFhk_4sRwRxrPNh-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Department Manger" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-1">
+          <mxGeometry y="20" width="2330" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-1" target="O4Cz6atJskqW_JFt4wvo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-2">
+          <mxGeometry x="65" y="90" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-4" value="Sends Head-count confirmation to the Quality and insights manager" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-2">
+          <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-28" target="O4Cz6atJskqW_JFt4wvo-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-28" value="Investigates the error findings&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-2">
+          <mxGeometry x="990" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-32" target="O4Cz6atJskqW_JFt4wvo-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="380" />
+              <mxPoint x="1280" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-32" value="Disputes finding and provide evidence to support removal of finding" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-2">
+          <mxGeometry x="1230" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-72" target="O4Cz6atJskqW_JFt4wvo-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-75" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O4Cz6atJskqW_JFt4wvo-74">
+          <mxGeometry x="-0.7346" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-72" target="O4Cz6atJskqW_JFt4wvo-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-214" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O4Cz6atJskqW_JFt4wvo-160">
+          <mxGeometry x="0.0757" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-72" value="dispute findings?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-2">
+          <mxGeometry x="1010" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-141" value="receives notification to coach the agent/consultant" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-2">
+          <mxGeometry x="1600" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f-qqybFhk_4sRwRxrPNh-3" value="Quality and insight management" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-2">
+          <mxGeometry y="540" width="2330" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-8" target="O4Cz6atJskqW_JFt4wvo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-8" value="Receives Head-count confirmation" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="30" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-10" target="O4Cz6atJskqW_JFt4wvo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-10" value="Creates audit task on teams audit group" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="230" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-12" target="O4Cz6atJskqW_JFt4wvo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-12" value="Downloads activity report from MIP/OWLS/Scoptel" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="430" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-14" value="Assigns tasks to the QA team" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="630" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-42" target="O4Cz6atJskqW_JFt4wvo-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-42" value="Receives the evidence" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="1220" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-44" target="O4Cz6atJskqW_JFt4wvo-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-67" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O4Cz6atJskqW_JFt4wvo-47">
+          <mxGeometry x="-0.3447" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-44" target="O4Cz6atJskqW_JFt4wvo-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-66" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O4Cz6atJskqW_JFt4wvo-49">
+          <mxGeometry x="-0.0103" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-44" value="Is the dispute valid/ invalid?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="1240" y="165" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-46" target="O4Cz6atJskqW_JFt4wvo-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-46" value="Removes the valid dispute&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="1220" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-48" target="O4Cz6atJskqW_JFt4wvo-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-48" value="Invalid Dispute finding is valid" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="1380" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-50" value="Send email/notification to the department manager for coaching" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="1600" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-58" target="O4Cz6atJskqW_JFt4wvo-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2410" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-58" value="Reviews the coaching records and close the task" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="1860" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-60" target="O4Cz6atJskqW_JFt4wvo-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-60" value="Captures findings on master error log under department tab&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="1860" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-62" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="2080" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-70" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="1270" y="495" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-213" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-3" source="O4Cz6atJskqW_JFt4wvo-211" target="O4Cz6atJskqW_JFt4wvo-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-211" value="Files the audit on Teams Audit Group&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-3">
+          <mxGeometry x="1860" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-4" target="O4Cz6atJskqW_JFt4wvo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-50" target="O4Cz6atJskqW_JFt4wvo-141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-56" target="O4Cz6atJskqW_JFt4wvo-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1920" y="290" />
+              <mxPoint x="1920" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-56" value="Sends the coaching recordings to the Quality and insight team" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-2">
+          <mxGeometry x="1870" y="147.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-141" target="O4Cz6atJskqW_JFt4wvo-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1830" y="170" as="targetPoint" />
+            <mxPoint x="1830" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-54" target="O4Cz6atJskqW_JFt4wvo-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-2" source="O4Cz6atJskqW_JFt4wvo-54" target="O4Cz6atJskqW_JFt4wvo-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1800" y="177.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-54" value="Coaches the consultant/Agent based on the findings and records the coaching" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-2">
+          <mxGeometry x="1600" y="140" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="f-qqybFhk_4sRwRxrPNh-4" value="Quality and insight team" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-1">
+          <mxGeometry y="1080" width="2330" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-4" source="O4Cz6atJskqW_JFt4wvo-16" target="O4Cz6atJskqW_JFt4wvo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-16" value="Audits call/workflow using the excel Audit template" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-4">
+          <mxGeometry x="630" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-4" source="O4Cz6atJskqW_JFt4wvo-18" target="O4Cz6atJskqW_JFt4wvo-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-22" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O4Cz6atJskqW_JFt4wvo-21">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-4" source="O4Cz6atJskqW_JFt4wvo-18" target="O4Cz6atJskqW_JFt4wvo-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-27" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O4Cz6atJskqW_JFt4wvo-26">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-18" value="Are there findings?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-4">
+          <mxGeometry x="850" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-4" source="O4Cz6atJskqW_JFt4wvo-20" target="O4Cz6atJskqW_JFt4wvo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-20" value="Files the audit on teams audit group" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-4">
+          <mxGeometry x="830" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-23" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-4">
+          <mxGeometry x="880" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-25" value="Logs the findings and upload the findings on teams audit group" style="whiteSpace=wrap;html=1;" vertex="1" parent="f-qqybFhk_4sRwRxrPNh-4">
+          <mxGeometry x="990" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-1" source="O4Cz6atJskqW_JFt4wvo-14" target="O4Cz6atJskqW_JFt4wvo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f-qqybFhk_4sRwRxrPNh-1" source="O4Cz6atJskqW_JFt4wvo-25" target="O4Cz6atJskqW_JFt4wvo-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-65" value="The Coaching is recorded&amp;nbsp;&lt;br&gt;using Survey Monkey Link" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="10" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O4Cz6atJskqW_JFt4wvo-54" target="O4Cz6atJskqW_JFt4wvo-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2500" y="125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1840" y="60" />
+              <mxPoint x="2530" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4Cz6atJskqW_JFt4wvo-210" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="600" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
