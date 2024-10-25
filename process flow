@@ -561,9 +561,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dvc56-Sx1_mQ6_HKr7If-1" value="Quality System Process- TO-Be" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-20" width="1710" height="2020" as="geometry" />
+          <mxGeometry x="190" y="-20" width="1710" height="1870" as="geometry" />
         </mxCell>
-        <mxCell id="dvc56-Sx1_mQ6_HKr7If-2" value="Quality and insight management" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="dvc56-Sx1_mQ6_HKr7If-1">
+        <mxCell id="dvc56-Sx1_mQ6_HKr7If-2" value="Quality and insight manager" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="dvc56-Sx1_mQ6_HKr7If-1">
           <mxGeometry y="20" width="1710" height="390" as="geometry" />
         </mxCell>
         <mxCell id="dvc56-Sx1_mQ6_HKr7If-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dvc56-Sx1_mQ6_HKr7If-2" source="dvc56-Sx1_mQ6_HKr7If-6" target="dvc56-Sx1_mQ6_HKr7If-7">
@@ -692,7 +692,7 @@
           <mxGeometry x="1070" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lb60XAJz8SWHQMBthtdT-8" value="System" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="dvc56-Sx1_mQ6_HKr7If-1">
-          <mxGeometry y="1120" width="1710" height="900" as="geometry" />
+          <mxGeometry y="1120" width="1710" height="750" as="geometry" />
         </mxCell>
         <mxCell id="lb60XAJz8SWHQMBthtdT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lb60XAJz8SWHQMBthtdT-8" source="lb60XAJz8SWHQMBthtdT-19" target="lb60XAJz8SWHQMBthtdT-23">
           <mxGeometry relative="1" as="geometry" />
